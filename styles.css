@@ -15,7 +15,10 @@ body{
 .clock{
     width: 300px;
     height: 300px;
-    background-color: rgba(255, 255, 255, 0.8);
+    background-image: url("./images/Selection_007.png");
+    /* background-image: url("./images/chairmo.jpg"); */
+    background-size: 300px;
+    /* background-color: rgba(255, 255, 255, 0.8); */
     border-radius: 50%;
     border: 2px solid black;
     position: relative;
